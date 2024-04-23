@@ -2,6 +2,7 @@
 
 ![License](https://img.shields.io/github/license/yourusername/CQRS-Practice-Project)
 ![Last Commit](https://img.shields.io/github/last-commit/yourusername/CQRS-Practice-Project)
+![CQRS Pattern](https://imgur.com/a/XwF95dU)
 
 ## Overview
 
