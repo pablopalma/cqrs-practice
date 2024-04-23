@@ -2,11 +2,13 @@
 
 ![License](https://img.shields.io/github/license/yourusername/CQRS-Practice-Project)
 ![Last Commit](https://img.shields.io/github/last-commit/yourusername/CQRS-Practice-Project)
-![CQRS Pattern](https://imgur.com/a/XwF95dU)
 
 ## Overview
 
 The CQRS Practice Project is a simple API designed to perform CRUD operations on tasks, leveraging the CQRS (Command Query Responsibility Segregation) pattern. CQRS separates reads and writes into two separate models, facilitating scalability, performance optimization, and improved maintainability.
+
+## Diagram
+<img src="https://imgur.com/sZcpmyW.png" width="750">
 
 ## Features
 
